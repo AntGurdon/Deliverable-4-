@@ -1,0 +1,5 @@
+/Users/anthonygurdon/Projects/Deliverable 4/obj/Debug/net7.0/Deliverable 4.csproj.AssemblyReference.cache
+/Users/anthonygurdon/Projects/Deliverable 4/obj/Debug/net7.0/Deliverable 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonygurdon/Projects/Deliverable 4/obj/Debug/net7.0/Deliverable 4.AssemblyInfoInputs.cache
+/Users/anthonygurdon/Projects/Deliverable 4/obj/Debug/net7.0/Deliverable 4.AssemblyInfo.cs
+/Users/anthonygurdon/Projects/Deliverable 4/obj/Debug/net7.0/Deliverable 4.csproj.CoreCompileInputs.cache
